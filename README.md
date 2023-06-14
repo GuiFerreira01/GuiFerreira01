@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Guilherme Da Silva Ferreira
 
 
-- 🏫 Estudei no Instituto PROA
-- 🧑 Tenho 18 anos de idade
+- 🏫 Fiz um curso profissionalizante no Instituto PROA
+- 👩‍💻 Trabalhei na Semantix durante 1 ano como Engenheiro de software Jr.
+- 🧑 Tenho 20 anos de idade
 - 😄 Pronomes: ele/dele
 - 🌎 São Paulo - SP, Brasil
 
